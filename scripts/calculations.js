@@ -1,6 +1,6 @@
 let budgetValue = 0;
 let totalExpensesValue = 0;
-let balancerColor = "green";
+let balanceColor = "green";
 
 const expenseEntries = [
 ["groceries", 33],
